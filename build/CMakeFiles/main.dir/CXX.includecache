@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/MemoryBounds.cpp
+cstdio
+-
+thread
+-
+mutex
+-
+inttypes.h
+-
+iostream
+-
+functional
+-
+chrono
+-
+

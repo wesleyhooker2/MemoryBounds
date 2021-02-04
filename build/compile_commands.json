@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/build",
+  "command": "/bin/g++-9   -I\"/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/include\"  -g   -pthread -std=gnu++17 -o CMakeFiles/main.dir/src/MemoryBounds.cpp.o -c \"/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/MemoryBounds.cpp\"",
+  "file": "/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/src/MemoryBounds.cpp"
+}
+]

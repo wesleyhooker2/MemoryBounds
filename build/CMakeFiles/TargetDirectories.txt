@@ -1,0 +1,3 @@
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Wesle/OneDrive/Desktop/CS/Semester 2/CS 6850/build/CMakeFiles/main.dir
